@@ -19,12 +19,6 @@
   },
   {
     "remote": "sony",
-    "repository": "vendor-sony-kernel",
-    "target_path": "vendor/sony/kernel",
-    "revision": "master"
-  },
-  {
-    "remote": "sony",
     "repository": "mkqcdtbootimg",
     "target_path": "vendor/sony/system/mkqcdtbootimg",
     "revision": "master"
